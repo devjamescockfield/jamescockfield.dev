@@ -37,7 +37,7 @@ export default function About() {
                     </ul>
                 </div>
                 <div className={"pt-8 pb-8 border-b w-full"}>
-                    <a className={"pl-6 pr-6 pt-3 pb-3 bg-white text-black"} href={"/JC_2024_CV.pdf"} download>Download
+                    <a className={"pl-6 pr-6 pt-3 pb-3 bg-white text-black"} href={"/James Cockfield-2025.pdf"} download>Download
                         CV</a>
                 </div>
                 <div className="flex pt-8 pb-8 border-b w-full">
