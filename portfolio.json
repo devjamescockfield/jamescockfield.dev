@@ -25,7 +25,7 @@
     "id": "vtc-gateway",
     "name": "VTC Gateway",
     "description": "VTC Gateway is a platform to allow Virtual Trucking Companies' (VTC) for Euro Truck Simulator 2 and American Truck Simulator to have an in-house like drivers hub so their drivers can track their jobs and progress within their VTC. We have found a niche where other platforms are not open to friend groups which is what we are offering along with VTC plans. This is made with a Django backend and a Next.JS frontend. I am the founder of this platform and we are hopefully releasing in March!",
-    "image": "https://panel.simulatorhits.com/storage/partners/WcM2HngL3cgJKx0lWhWh.png",
+    "image": "/img/vtc-gateway.png",
     "url": "https://vtcgateway.com/"
   },
   {
