@@ -45,13 +45,6 @@ export default function HorizontalNavigation({onNavigationClick}: VerticalNaviga
                                 </Link>
                             </li>
                             <li>
-                                <Link href="/service"
-                                      className="block px-4 py-2"
-                                      onClick={() => handleItemClick("Service")}>
-                                    Service
-                                </Link>
-                            </li>
-                            <li>
                                 <Link href="/portfolio"
                                       className="block px-4 py-2"
                                       onClick={() => handleItemClick("Portfolio")}>

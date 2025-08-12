@@ -16,7 +16,7 @@ export default function Index() {
 
                 {/* Small text below large text */}
                 <div className="text-center mt-4">
-                    <p>Software Engineer in development based in the UK</p>
+                    <p>Software Engineer</p>
                 </div>
 
                 {/* Social links */}

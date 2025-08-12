@@ -104,7 +104,7 @@ export default function Portfolio(): React.JSX.Element {
                             showCard={showCard}
                         />
                         <PortfolioCard
-                            ImageHref="https://panel.simulatorhits.com/storage/partners/WcM2HngL3cgJKx0lWhWh.png"
+                            ImageHref="/img/vtc-gateway.png"
                             category="Websites"
                             title="VTC Gateway"
                             button="View Details"
@@ -112,11 +112,19 @@ export default function Portfolio(): React.JSX.Element {
                             showCard={showCard}
                         />
                         <PortfolioCard
-                            ImageHref="https://s3.simulatorhits.com/how-to-listen/app.png"
+                            ImageHref="/img/SH_APP.png"
                             category="Apps"
                             title="SimulatorHits"
                             button="View Details"
                             buttonHref="/portfolio/simulatorhits-app"
+                            showCard={showCard}
+                        />
+                        <PortfolioCard
+                            ImageHref="/img/tsr-app.png"
+                            category="Apps"
+                            title="TruckStopRadio"
+                            button="View Details"
+                            buttonHref="/portfolio/truckstopradio-app"
                             showCard={showCard}
                         />
                         <PortfolioCard

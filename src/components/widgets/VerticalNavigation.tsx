@@ -34,13 +34,6 @@ export default function VerticalNavigation({onNavigationClick}: VerticalNavigati
                         </Link>
                     </li>
                     <li>
-                        <Link href="/service"
-                              className="block px-4 py-2 text-white hover:bg-gray-400 hover:shadow-md rounded-2xl transition duration-300 hover:bg-opacity-10 hover:scale-110"
-                              onClick={() => handleItemClick("Service")}>
-                            <FontAwesomeIcon icon={faGear} className={'pr-3'}/> Service
-                        </Link>
-                    </li>
-                    <li>
                         <Link href="/portfolio"
                               className="block px-4 py-2 text-white hover:bg-gray-400 hover:shadow-md rounded-2xl transition duration-300 hover:bg-opacity-10 hover:scale-110"
                               onClick={() => handleItemClick("Portfolio")}>

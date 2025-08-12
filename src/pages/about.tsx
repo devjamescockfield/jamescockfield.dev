@@ -10,15 +10,15 @@ export default function About() {
             <div className="lg:p-40 md:p-24 p-10">
                 <div>
                     <h1 className="text-3xl">James Cockfield</h1>
-                    <p className="pb-6 border-b w-full text-gray-400">Software Engineer/Student</p>
+                    <p className="pb-6 border-b w-full text-gray-400">Software Engineer</p>
                 </div>
                 <div className={"pt-6"}>
-                    <p className="pb-6 border-b w-full text-gray-400">Hello, my name is James and I am a talented
-                        Software Engineering student from the UK. My skills span a wide range of domains, with a strong
-                        focus on crafting dynamic and user-friendly websites and mobile applications. I have a passion
-                        for technology, and I continually strives to expand my knowledge and expertise in the world of
-                        software development.<br/><br/>I specialise in taking an idea and making it come alive using a
-                        variety of technologies and languages.</p>
+                    <p className="pb-6 border-b w-full text-gray-400">Hello, my name is James and I am an
+                        innovative full-stack developer with hands-on experience across web, mobile and
+                        game projects using frameworks like React, Flutter and Django. Proven leadership
+                        and adaptability through academic excellence, client-facing roles and team-driven
+                        environments.
+                    </p>
                 </div>
                 <div className={"pt-6 pb-6 border-b w-full"}>
                     <ul>
@@ -26,25 +26,21 @@ export default function About() {
                             <p><b className={"pr-12"}>Email:</b> dev.jamescockfield@gmail.com</p>
                         </li>
                         <li>
-                            <p><b className={"pr-11"}>Study:</b> Heriot-Watt University</p>
-                        </li>
-                        <li>
-                            <p><b className={"pr-8"}>Degree:</b> MSc Software Engineering</p>
-                        </li>
-                        <li>
-                            <p><b className={"pr-3"}>Freelance:</b> Unavailable</p>
+                            <p><b className={"pr-3"}>Freelance:</b> Available</p>
                         </li>
                     </ul>
-                </div>
-                <div className={"pt-8 pb-8 border-b w-full"}>
-                    <a className={"pl-6 pr-6 pt-3 pb-3 bg-white text-black"} href={"/James Cockfield-2025.pdf"} download>Download
-                        CV</a>
                 </div>
                 <div className="flex pt-8 pb-8 border-b w-full">
                     <div className="w-1/2 p-2">
                         <h1 className={"text-2xl pb-3"}><b>Programming Skills</b></h1>
                         <div>
                             <ul className="space-y-4">
+                                <li>
+                                    <p className="text-md">C++</p>
+                                    <div className="bg-gray-200 h-2">
+                                        <div className="bg-blue-500 h-2" style={{width: '80%'}}></div>
+                                    </div>
+                                </li>
                                 <li>
                                     <p className="text-md">JavaScript</p>
                                     <div className="bg-gray-200 h-2">
@@ -196,8 +192,8 @@ export default function About() {
                             <ul className="space-y-4">
                                 <li>
                                     <p className="text-lg">Heriot-Watt University</p>
-                                    <p className="text-sm text-gray-400">Sep 2023 - Present</p>
-                                    <p className="text-md">MSc Software Engineering</p>
+                                    <p className="text-sm text-gray-400">Sep 2023 - June 2025</p>
+                                    <p className="text-md">PGCert Computer Science</p>
                                 </li>
                                 <li>
                                     <p className="text-lg">University of Stirling</p>
@@ -216,6 +212,11 @@ export default function About() {
                         <h1 className={"text-2xl pb-3"}><b>Experience</b></h1>
                         <div>
                             <ul className="space-y-4">
+                                <li>
+                                    <p className="text-lg">Manchester</p>
+                                    <p className="text-sm text-gray-400">Sep 2024 - Present</p>
+                                    <p className="text-md">Software Engineer</p>
+                                </li>
                                 <li>
                                     <p className="text-lg">CO-OP, Ballyholme</p>
                                     <p className="text-sm text-gray-400">July 2023 - Sep 2023</p>
@@ -237,35 +238,6 @@ export default function About() {
                                     <p className="text-md">Delivery Driver</p>
                                 </li>
                             </ul>
-                        </div>
-                    </div>
-                </div>
-                <div className="pt-8 pb-8 border-b w-full">
-                    <h1 className="text-3xl mb-8">Testimonials</h1>
-                    <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
-                        <div className="max-w-sm rounded overflow-hidden shadow-lg">
-                            <div className="px-6 py-4">
-                                <div className="font-bold text-xl mb-2">
-                                    <h1>Kyle Python</h1>
-                                    <p className="text-sm text-gray-400">SimulatorHits Owner</p>
-                                </div>
-                                <p className="text-gray-300 text-base">
-                                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus quia, nulla!
-                                    Maiores et perferendis eaque, exercitationem praesentium nihil.
-                                </p>
-                            </div>
-                        </div>
-                        <div className="max-w-sm rounded overflow-hidden shadow-lg">
-                            <div className="px-6 py-4">
-                                <div className="font-bold text-xl mb-2">
-                                    <h1>Brandon Huckin</h1>
-                                    <p className="text-sm text-gray-400">Fellow Developer</p>
-                                </div>
-                                <p className="text-gray-300 text-base">
-                                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus quia, nulla!
-                                    Maiores et perferendis eaque, exercitationem praesentium nihil.
-                                </p>
-                            </div>
                         </div>
                     </div>
                 </div>

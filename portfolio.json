@@ -2,17 +2,24 @@
   {
     "id": "simulatorhits-website",
     "name": "SimulatorHits Website",
-    "description": "SimulatorHits is an Online Radio Station aimed for listeners that are into gaming mainly simulation games. I have been a developer here for nearly 4 years now and I have worked on the website during this time. We started to make the site using Laravel which is a PHP Framework. Now we have changed to use Laravel as the backend of the site and use Next.JS for the frontend. The radio panel for staff has also been made using Laravel and allows staff to read requests when live on the station, add banners, manage users, etc....",
+    "description": "SimulatorHits is an Online Radio Station aimed for listeners that are into gaming mainly simulation games. I have been a developer here for many years now and I have worked on the website during this time. We started to make the site using Laravel which is a PHP Framework. Now we have changed to use Laravel as the backend of the site and use Next.JS for the frontend. The radio panel for staff has also been made using Laravel and allows staff to read requests when live on the station, add banners, manage users, etc....",
     "image": "/img/sh.png",
     "url": "https://simulatorhits.com"
   },
   {
     "id": "simulatorhits-app",
     "name": "SimulatorHits App",
-    "description": "SimulatorHits is an Online Radio Station aimed for listeners that are into gaming mainly simulation games. I have been a developer here for nearly 4 years now and I have just release version 2 of the mobile app. The mobile app is made in Flutter which is a cross-platform framework that compiles down to native code so it can run on a range of operating systems. This app targets IOS and Android and includes features such as the player, show timetable, ",
-    "image": "https://s3.simulatorhits.com/how-to-listen/app.png",
-    "url_android": "https://play.google.com/store/apps/details?id=app.simulatorhits.com&pcampaignid=web_share",
-    "url_ios": "https://apps.apple.com/gb/app/simulatorhits/id1609280393"
+    "description": "SimulatorHits is an Online Radio Station aimed for listeners that are into gaming mainly simulation games. I have been a developer here for many years now and I have just release version 2 of the mobile app. The mobile app is made in Flutter which is a cross-platform framework that compiles down to native code so it can run on a range of operating systems. This app targets IOS and Android and includes features such as the player, show timetable and a requests form. Unfortunately, this app has been taken down however, plans are to get it back up in the future!",
+    "image": "/img/SH_APP.png",
+    "url": "https://simulatorhits.com"
+  },
+  {
+    "id": "truckstopradio-app",
+    "name": "TruckStopRadio App",
+    "description": "TruckStopRadio is a fully community-ran, online radio station for the Simulation community that launched on the 12th May 2020. I was brought in to develop a mobile app to increase community outreach and needs. The mobile app is made in Flutter which is a cross-platform framework that compiles down to native code so it can run on a range of operating systems. This app targets IOS and Android and includes features such as the player and a show timetable. Across both platforms, the app has been downloaded close to 1000 times.",
+    "image": "/img/tsr-app.png",
+    "url_android": "https://play.google.com/store/apps/details?id=com.omnibyte.truckstopradio&pcampaignid=web_share",
+    "url_ios": "https://apps.apple.com/gb/app/truckstopradio-app/id6504255270"
   },
   {
     "id": "vtc-gateway",
